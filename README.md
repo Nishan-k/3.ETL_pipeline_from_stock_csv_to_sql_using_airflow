@@ -67,6 +67,8 @@ In total, the data has 7 columns.
         <img src="./images/table.png">
         <li>
         <h4 id="viz">Candle-Charts</h4>
+        And finally, from Tableau, we have connected to the database and visualized as the candle chart for the stocks. Date(Year) and tickers are kept as the filter.    <br>
+        <br>
         <img src="./images/demo_1.png">
         <br>
         <br>
